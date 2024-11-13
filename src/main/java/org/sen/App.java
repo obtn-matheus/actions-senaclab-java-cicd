@@ -21,7 +21,7 @@ public final class App {
     /**
      * The number of seconds in a minute.
      */
-    private static final int SECONDS_IN_MINUTE = 60;
+    private static final int SECONDS_IN_MINUTE = 45;
 
     /**
      * The number of milliseconds in a second.
